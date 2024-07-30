@@ -49,9 +49,6 @@ body {
 }
 
 @media screen and (max-width:700px) {
-
-    
-
     .gallery{
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
@@ -59,8 +56,6 @@ body {
     .heading h1{
       font-size: 30px;
     }
-
-
 }
 
 .cursor-cursor {
